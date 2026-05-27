@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F27J53_ISS:PIC18F27J53_ISS",
+  "name": "PIC18F27J53_ISS",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F27J53_ISS.kicad_sym",
+  "description": "128K Flash, 3.8K RAM, PIC18 Microcontroller ADC PWM I2C USART USB RTCC, SSOP-28",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/30009964C.pdf",
+  "keywords": "microcontroller PIC18 flash ECAN XLP nanoWatt",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F27J53_ISS/",
+  "part_path": "parts/PIC18F27J53_ISS",
+  "symbol_file": "parts/PIC18F27J53_ISS/PIC18F27J53_ISS.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.479Z"
+}

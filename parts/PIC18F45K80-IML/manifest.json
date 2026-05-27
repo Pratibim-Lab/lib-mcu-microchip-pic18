@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F45K80-IML:PIC18F45K80-IML",
+  "name": "PIC18F45K80-IML",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F45K80-IML.kicad_sym",
+  "description": "32K Flash, 3.5K RAM, 1K EEPROM, Microchip PIC18F series enhanced flash microcontroller with ECAN and nanoWatt XLP Technology in QFN-44 package",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/PIC18F66K80%20FAMILY%20Enhanced%20Flash%20MCU%20with%20ECAN%20XLP%20Technology%2030009977G.pdf",
+  "keywords": "microcontroller Flash EEPROM SPI I2C CAN UART USART ADC",
+  "footprint": "Package_DFN_QFN:QFN-44-1EP_8x8mm_P0.65mm_EP6.45x6.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F45K80-IML/",
+  "part_path": "parts/PIC18F45K80-IML",
+  "symbol_file": "parts/PIC18F45K80-IML/PIC18F45K80-IML.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.596Z"
+}

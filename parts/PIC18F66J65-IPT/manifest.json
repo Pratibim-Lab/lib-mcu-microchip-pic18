@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F66J65-IPT:PIC18F66J65-IPT",
+  "name": "PIC18F66J65-IPT",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F66J65-IPT.kicad_sym",
+  "description": "96K Flash, 3.7K SRAM, Ethernet Controller with PHY, 8K Buffer, TQFP64",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/39762f.pdf",
+  "keywords": "Flash Based 8-Bit Microcontroller Ethernet Controller PHY",
+  "footprint": "Package_QFP:TQFP-64_10x10mm_P0.5mm",
+  "extends": "PIC18F66J60-IPT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F66J65-IPT/",
+  "part_path": "parts/PIC18F66J65-IPT",
+  "symbol_file": "parts/PIC18F66J65-IPT/PIC18F66J65-IPT.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.636Z"
+}

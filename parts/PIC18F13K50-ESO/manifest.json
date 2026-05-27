@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F13K50-ESO:PIC18F13K50-ESO",
+  "name": "PIC18F13K50-ESO",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F13K50-ESO.kicad_sym",
+  "description": "8K Flash, 512 SRAM, 256 EEPROM, USB, nanoWatt XLP, SOIC20",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/41350c.pdf",
+  "keywords": "Flash-Based 8bit CMOS Microcontroller XLP",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F13K50-ESO/",
+  "part_path": "parts/PIC18F13K50-ESO",
+  "symbol_file": "parts/PIC18F13K50-ESO/PIC18F13K50-ESO.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.300Z"
+}

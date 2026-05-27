@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F4520-xP:PIC18F4520-xP",
+  "name": "PIC18F4520-xP",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F4520-xP.kicad_sym",
+  "description": "32K Flash, 1536b SRAM, 256b EEPROM, ADC, DIP-40",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/39631E.pdf",
+  "keywords": "32K Flash, 1536b SRAM, 256b EEPROM, ADC",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "PIC18F4420-xP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F4520-xP/",
+  "part_path": "parts/PIC18F4520-xP",
+  "symbol_file": "parts/PIC18F4520-xP/PIC18F4520-xP.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.553Z"
+}

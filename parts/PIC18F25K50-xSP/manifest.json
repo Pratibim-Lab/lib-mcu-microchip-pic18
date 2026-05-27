@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F25K50-xSP:PIC18F25K50-xSP",
+  "name": "PIC18F25K50-xSP",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F25K50-xSP.kicad_sym",
+  "description": "32K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, 2.3V to 5.5V, SPDIP28",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/30000684B.pdf",
+  "keywords": "Flash-Based 8-Bit Microcontroller XLP",
+  "footprint": "Package_DIP:DIP-28_W7.62mm",
+  "extends": "PIC18F24K50-xSP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F25K50-xSP/",
+  "part_path": "parts/PIC18F25K50-xSP",
+  "symbol_file": "parts/PIC18F25K50-xSP/PIC18F25K50-xSP.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.445Z"
+}

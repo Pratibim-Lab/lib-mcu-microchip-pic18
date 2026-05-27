@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18LF442-IP:PIC18LF442-IP",
+  "name": "PIC18LF442-IP",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18LF442-IP.kicad_sym",
+  "description": "16K Flash, 768B SRAM, 256 EEPROM, ADC, DIP40",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/39564c.pdf",
+  "keywords": "Flash-Based 8-Bit Microcontroller",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "PIC18F442-IP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18LF442-IP/",
+  "part_path": "parts/PIC18LF442-IP",
+  "symbol_file": "parts/PIC18LF442-IP/PIC18LF442-IP.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.832Z"
+}

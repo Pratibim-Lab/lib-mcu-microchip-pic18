@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F87K22-xPT:PIC18F87K22-xPT",
+  "name": "PIC18F87K22-xPT",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F87K22-xPT.kicad_sym",
+  "description": "PIC18F nanoWatt XLP Technology MCU, 64MHz, 128KB Flash, 4KB RAM, 1KB EEPROM, 1.8-5.5V, 69 GPIO, TQFP-80",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/39960d.pdf",
+  "keywords": "Flash Based 8-Bit Microcontroller",
+  "footprint": "Package_QFP:TQFP-80_12x12mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F87K22-xPT/",
+  "part_path": "parts/PIC18F87K22-xPT",
+  "symbol_file": "parts/PIC18F87K22-xPT/PIC18F87K22-xPT.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.644Z"
+}

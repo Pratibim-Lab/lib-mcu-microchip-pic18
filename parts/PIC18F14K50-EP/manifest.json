@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F14K50-EP:PIC18F14K50-EP",
+  "name": "PIC18F14K50-EP",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F14K50-EP.kicad_sym",
+  "description": "16K Flash, 768 SRAM, 256 EEPROM, USB, nanoWatt XLP, DIP20",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/41350c.pdf",
+  "keywords": "Flash-Based 8bit CMOS Microcontroller XLP",
+  "footprint": "Package_DIP:DIP-20_W7.62mm",
+  "extends": "PIC18F13K50-EP",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F14K50-EP/",
+  "part_path": "parts/PIC18F14K50-EP",
+  "symbol_file": "parts/PIC18F14K50-EP/PIC18F14K50-EP.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.308Z"
+}

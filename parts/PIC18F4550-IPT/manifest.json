@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F4550-IPT:PIC18F4550-IPT",
+  "name": "PIC18F4550-IPT",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F4550-IPT.kicad_sym",
+  "description": "32K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, TQFP44",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/39760d.pdf",
+  "keywords": "Flash-Based 8-Bit Microcontroller XLP",
+  "footprint": "Package_QFP:TQFP-44_10x10mm_P0.8mm",
+  "extends": "PIC18F4455-IPT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F4550-IPT/",
+  "part_path": "parts/PIC18F4550-IPT",
+  "symbol_file": "parts/PIC18F4550-IPT/PIC18F4550-IPT.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.563Z"
+}

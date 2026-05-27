@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F26K80_ISS:PIC18F26K80_ISS",
+  "name": "PIC18F26K80_ISS",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F26K80_ISS.kicad_sym",
+  "description": "64K Flash, 3.5K RAM, 1K EEPROM PIC18 Microcontroller ADC PWM CAN SPI I2C USART in SSOP28 package",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/39977f.pdf",
+  "keywords": "microcontroller PIC18 flash ECAN XLP nanoWatt",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "PIC18F25K80_ISS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F26K80_ISS/",
+  "part_path": "parts/PIC18F26K80_ISS",
+  "symbol_file": "parts/PIC18F26K80_ISS/PIC18F26K80_ISS.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.473Z"
+}

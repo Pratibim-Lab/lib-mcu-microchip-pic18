@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18LF45K80-IML:PIC18LF45K80-IML",
+  "name": "PIC18LF45K80-IML",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18LF45K80-IML.kicad_sym",
+  "description": "32K Flash, 3.5K RAM, 1K EEPROM PIC18 Microcontroller ADC PWM CAN SPI I2C USART in QFN44 package",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/39977f.pdf",
+  "keywords": "microchip microcontroller PIC18 flash ECAN XLP nanoWatt",
+  "footprint": "Package_DFN_QFN:QFN-44-1EP_8x8mm_P0.65mm_EP6.45x6.45mm",
+  "extends": "PIC18F45K80-IML",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18LF45K80-IML/",
+  "part_path": "parts/PIC18LF45K80-IML",
+  "symbol_file": "parts/PIC18LF45K80-IML/PIC18LF45K80-IML.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.908Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F45K50_QFP:PIC18F45K50_QFP",
+  "name": "PIC18F45K50_QFP",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F45K50_QFP.kicad_sym",
+  "description": "32K Flash, 2K RAM, 256B EEPROM, Microchip PIC18F series enhanced flash microcontroller with USB in TQFP-44 package",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/30000684B.pdf",
+  "keywords": "microcontroller Flash EEPROM SPI I2C USB UART USART ADC TQFP",
+  "footprint": "Package_QFP:TQFP-44_10x10mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F45K50_QFP/",
+  "part_path": "parts/PIC18F45K50_QFP",
+  "symbol_file": "parts/PIC18F45K50_QFP/PIC18F45K50_QFP.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.585Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F1220-SO:PIC18F1220-SO",
+  "name": "PIC18F1220-SO",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F1220-SO.kicad_sym",
+  "description": "18-Pin Flash Microcontroller 4K Flash 256byte RAM",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/39605F.pdf",
+  "keywords": "RAM ADC UART PWM",
+  "footprint": "Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F1220-SO/",
+  "part_path": "parts/PIC18F1220-SO",
+  "symbol_file": "parts/PIC18F1220-SO/PIC18F1220-SO.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.294Z"
+}

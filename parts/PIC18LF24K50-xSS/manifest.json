@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18LF24K50-xSS:PIC18LF24K50-xSS",
+  "name": "PIC18LF24K50-xSS",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18LF24K50-xSS.kicad_sym",
+  "description": "16K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, 1.8V to 3.6V, SSOP28",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/30000684B.pdf",
+  "keywords": "Flash-Based 8-Bit Microcontroller XLP",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "PIC18F24K50-xSS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18LF24K50-xSS/",
+  "part_path": "parts/PIC18LF24K50-xSS",
+  "symbol_file": "parts/PIC18LF24K50-xSS/PIC18LF24K50-xSS.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.787Z"
+}

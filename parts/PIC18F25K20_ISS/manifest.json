@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F25K20_ISS:PIC18F25K20_ISS",
+  "name": "PIC18F25K20_ISS",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F25K20_ISS.kicad_sym",
+  "description": "32K Flash, 1536Byte RAM, 256Byte EEPROM, PIC18 Microcontroller ADC PWM SPI I2C USART in SSOP28 package",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/40001303H.pdf",
+  "keywords": "microcontroller PIC18F flash XLP",
+  "footprint": "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm",
+  "extends": "PIC18F23K20_ISS",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F25K20_ISS/",
+  "part_path": "parts/PIC18F25K20_ISS",
+  "symbol_file": "parts/PIC18F25K20_ISS/PIC18F25K20_ISS.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.429Z"
+}

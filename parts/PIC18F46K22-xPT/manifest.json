@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F46K22-xPT:PIC18F46K22-xPT",
+  "name": "PIC18F46K22-xPT",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F46K22-xPT.kicad_sym",
+  "description": "64K Flash, 3.5K RAM, 1K EEPROM PIC18 Microcontroller ADC PWM SPI I2C USART in TQFP44 package",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/40001412G.pdf",
+  "keywords": "microchip microcontroller PIC18 flash XLP nanoWatt",
+  "footprint": "Package_QFP:TQFP-44_10x10mm_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F46K22-xPT/",
+  "part_path": "parts/PIC18F46K22-xPT",
+  "symbol_file": "parts/PIC18F46K22-xPT/PIC18F46K22-xPT.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.619Z"
+}

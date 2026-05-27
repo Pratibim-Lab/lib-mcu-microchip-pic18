@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_PIC18/PIC18F25K50-xSO:PIC18F25K50-xSO",
+  "name": "PIC18F25K50-xSO",
+  "library": "MCU_Microchip_PIC18",
+  "file": "MCU_Microchip_PIC18.kicad_symdir/PIC18F25K50-xSO.kicad_sym",
+  "description": "32K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, 2.3V to 5.5V, SOIC28",
+  "datasheet": "http://ww1.microchip.com/downloads/en/devicedoc/30000684B.pdf",
+  "keywords": "Flash-Based 8-Bit Microcontroller XLP",
+  "footprint": "Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm",
+  "extends": "PIC18F24K50-xSO",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-pic18@master/parts/PIC18F25K50-xSO/",
+  "part_path": "parts/PIC18F25K50-xSO",
+  "symbol_file": "parts/PIC18F25K50-xSO/PIC18F25K50-xSO.kicad_sym",
+  "source_library": "MCU_Microchip_PIC18.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:42.441Z"
+}
